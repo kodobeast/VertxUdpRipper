@@ -1,0 +1,11 @@
+.idea
+.vertx
+.gradle
+
+*.iml
+*.class
+
+build
+gradle
+log
+db
